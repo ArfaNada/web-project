@@ -1,2 +1,2 @@
 # web-project
-the local repository of the web project
+This project consisted of an online MERN stack application to request tutors.
