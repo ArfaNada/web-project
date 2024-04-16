@@ -1,0 +1,86 @@
+body {
+  background-color:#f2f2e6;
+  font-family: Poppins,sans-serif;
+  font-size: 16px;
+  font-weight: 500; 
+  border:"2px solid red"
+}
+
+.button-17 {
+align-items: center;
+appearance: none;
+background-color: #fff;
+border-radius: 24px;
+border-style: none;
+box-sizing: border-box;
+color: white;
+cursor: pointer;
+display: inline-flex;
+fill: currentcolor;
+font-family: "Google Sans",Roboto,Arial,sans-serif;
+font-size: 18px;
+font-weight: 500;
+height: 44px;
+justify-content: center;
+letter-spacing: .25px;
+line-height: normal;
+max-width: 100%;
+overflow: visible;
+padding: 2px 24px;
+position: relative;
+text-align: center;
+text-transform: none;
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+width: auto;
+will-change: transform,opacity;
+z-index: 0;
+background-color:#0D3A68;
+}
+.button-17:hover {
+background: #0A3056;
+color: white;
+}
+.fc .fc-button .fc-icon{
+background-color: "#E6E5E1";
+}
+
+.fc .fc-col-header-cell-cushion{
+text-decoration: none;
+}
+
+.fc .fc-daygrid-day-number{
+text-decoration: none;
+}
+
+.fc .fc-button-primary:disabled{
+background-color: #BFBCC7;
+border:1px solid #BFBCC7;
+color:black
+}
+.fc .fc-button-primary:hover{
+background-color: #BFBCC7;
+border:1px solid #BFBCC7;
+color:black
+}
+.fc .fc-button-primary{
+background-color: #BFBCC7;
+border:1px solid #BFBCC7;
+color:black
+}
+
+.fc .fc-button:disabled{
+opacity: 1;
+}
+
+a{
+  color:black
+}
+
+:root{
+  --fc-today-bg-color:#f2f2e6;
+  --fc-button-active-bg-color: #E0E1E5;
+  --fc-button-active-border-color: #E0E1E5;
+  --fc-button-text-color:black;
+}

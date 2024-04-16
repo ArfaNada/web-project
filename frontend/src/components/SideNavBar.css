@@ -1,0 +1,52 @@
+/* SideNavBar.css */
+
+/* Styles for the side navigation bar container */
+.side-nav-container {
+    border-right: 1px solid #f2f2e6;
+    min-height: 100vh;
+    width: 15%;
+    position: fixed;
+    background-image: linear-gradient(to right, #f2f2e6, #f2f2e6);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  /* Styles for the navigation bar links */
+  .nav-link {
+    text-decoration: none;
+    color: black;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 15px;
+    margin: 0;
+  }
+  
+  /* Styles for the profile image */
+  .profile-image {
+    width: 60%;
+    margin: 8%;
+  }
+  
+  /* Styles for the switch button */
+  .switch-button {
+    background-color: white;
+    color: black;
+    border-radius: 10em;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 1em 2em;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border: 1px solid white;
+    position: relative;
+    margin-top: 100px;
+    align-self: flex-end;
+    /* Additional styles for the button */
+  }
+  
+  .switch-button:hover {
+    box-shadow: 2px 5px 0 0 black;
+  }
+  
+  /* Add any other specific styles you need */
+  

@@ -1,0 +1,42 @@
+.fc .fc-button .fc-icon{
+    background-color: "#E6E5E1";
+    }
+    
+    .fc .fc-col-header-cell-cushion{
+    text-decoration: none;
+    }
+    
+    .fc .fc-daygrid-day-number{
+    text-decoration: none;
+    }
+    
+    .fc .fc-button-primary:disabled{
+    background-color: #BFBCC7;
+    border:1px solid #BFBCC7;
+    color:black
+    }
+    .fc .fc-button-primary:hover{
+    background-color: #BFBCC7;
+    border:1px solid #BFBCC7;
+    color:black
+    }
+    .fc .fc-button-primary{
+    background-color: #BFBCC7;
+    border:1px solid #BFBCC7;
+    color:black
+    }
+    
+    .fc .fc-button:disabled{
+    opacity: 1;
+    }
+    
+    a{
+      color:black
+    }
+    
+    :root{
+      --fc-today-bg-color:#f2f2e6;
+      --fc-button-active-bg-color: #E0E1E5;
+      --fc-button-active-border-color: #E0E1E5;
+      --fc-button-text-color:black;
+    }
