@@ -53,4 +53,4 @@ npm test
 
 ## License
 
-See the `LICENSE` file in the repository root.
+See the [`LICENSE`](LICENSE) file in the repository root.
